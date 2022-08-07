@@ -7,6 +7,6 @@ O desafio: Modelagem do banco de dados
 
 Diagrama
 
-https://github.com/abbueno/ignite-template-database-queries/diagrama.png
+https://github.com/abbueno/ignite-template-database-queries/blob/main/diagrama.png
 
 Diagrama
